@@ -1,4 +1,4 @@
 [
-  {host: 'localhost', port: 3000, user="main"},
-  {host: 'localhost', port: 3001, user="second"}
+  {host: "localhost", port: 3000, user:"main"},
+  {host: "localhost", port: 3001, user:"second"}
 ]
